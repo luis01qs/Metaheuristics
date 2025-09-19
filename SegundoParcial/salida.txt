@@ -1,0 +1,140 @@
+./KP-instancias/ks_300_0.txt
+minimo peso         9683876
+maximo valor        9673614
+maxima proporcion   9696492
+Minimo encontrado con maxima proporcion  
+
+####################################################
+./KP-instancias/ks_200_1.txt
+minimo peso         6310074
+maximo valor        6320524
+maxima proporcion   6315898
+Minimo encontrado con maximo valor       
+
+####################################################
+./KP-instancias/ks_50_1.txt
+minimo peso         4701
+maximo valor        5018
+maxima proporcion   5391
+Minimo encontrado con maxima proporcion  
+
+####################################################
+./KP-instancias/ks_50_0.txt
+minimo peso         821318
+maximo valor        817624
+maxima proporcion   821318
+Minimo encontrado con minimo peso        
+
+####################################################
+./KP-instancias/ks_200_0.txt
+minimo peso         99045
+maximo valor        90000
+maxima proporcion   90000
+Minimo encontrado con minimo peso        
+
+####################################################
+./KP-instancias/ks_106_0.txt
+minimo peso         99990915
+maximo valor        106910966
+maxima proporcion   105970179
+Minimo encontrado con maximo valor       
+
+####################################################
+./KP-instancias/ks_100_2.txt
+minimo peso         9751
+maximo valor        10467
+maxima proporcion   11011
+Minimo encontrado con maxima proporcion  
+
+####################################################
+./KP-instancias/ks_100_1.txt
+minimo peso         7548100
+maximo valor        7632200
+maxima proporcion   7548100
+Minimo encontrado con maximo valor       
+
+####################################################
+./KP-instancias/ks_30_0.txt
+minimo peso         99090
+maximo valor        90001
+maxima proporcion   99168
+Minimo encontrado con maxima proporcion  
+
+####################################################
+./KP-instancias/ks_100_0.txt
+minimo peso         99090
+maximo valor        90001
+maxima proporcion   100158
+Minimo encontrado con maxima proporcion  
+
+####################################################
+./KP-instancias/ks_60_0.txt
+minimo peso         99090
+maximo valor        90001
+maxima proporcion   98568
+Minimo encontrado con minimo peso        
+
+####################################################
+./KP-instancias/ks_400_0.txt
+minimo peso         22597682
+maximo valor        22684216
+maxima proporcion   22731682
+Minimo encontrado con maxima proporcion  
+
+####################################################
+./KP-instancias/ks_1000_0.txt
+minimo peso         99998
+maximo valor        97797
+maxima proporcion   111009
+Minimo encontrado con maxima proporcion  
+
+####################################################
+./KP-instancias/ks_82_0.txt
+minimo peso         99417493
+maximo valor        104716236
+maxima proporcion   104490837
+Minimo encontrado con maximo valor       
+
+####################################################
+./KP-instancias/ks_500_0.txt
+minimo peso         48838
+maximo valor        49824
+maxima proporcion   55449
+Minimo encontrado con maxima proporcion  
+
+####################################################
+./KP-instancias/ks_10000_0.txt
+minimo peso         1008059
+maximo valor        1000761
+maxima proporcion   1110904
+Minimo encontrado con maxima proporcion  
+
+####################################################
+./KP-instancias/ks_4_0.txt
+minimo peso         3
+maximo valor        5
+maxima proporcion   3
+Minimo encontrado con maximo valor       
+
+####################################################
+./KP-instancias/ks_40_0.txt
+minimo peso         99045
+maximo valor        90000
+maxima proporcion   90000
+Minimo encontrado con minimo peso        
+
+####################################################
+./KP-instancias/ks_19_0.txt
+minimo peso         75378
+maximo valor        75828
+maxima proporcion   75378
+Minimo encontrado con maximo valor       
+
+####################################################
+./KP-instancias/ks_45_0.txt
+minimo peso         150102
+maximo valor        140232
+maxima proporcion   150818
+Minimo encontrado con maxima proporcion  
+
+####################################################
