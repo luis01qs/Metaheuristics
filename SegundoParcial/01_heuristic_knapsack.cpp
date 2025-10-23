@@ -9,17 +9,17 @@ using namespace std;
 // First read number of elements, then the capacity of knapsack
 bool comp_minimum_weight(const pair<ll, ll> &a, const pair<ll, ll> &b)
 {
-    return a.first < b.first;
+    return a.second < b.second; // <-- corregido: comparar por peso (segundo)
 }
 
 bool comp_maximum_revenue(const pair<ll, ll> &a, const pair<ll, ll> &b)
 {
-    return a.second > b.second;
+    return a.first > b.first; // <-- corregido: comparar por beneficio (primero)
 }
 
 bool comp_maximum_proportion(const pair<ll, ll> &a, const pair<ll, ll> &b)
 {
-    return a.second * b.first > a.first * b.second;
+    return a.first * b.second > b.first * a.second; // <-- corregido: beneficio/peso
 }
 
 pair<ll, string> calculate(ll w, vector<pair<ll, ll>> &elements, string name)
@@ -29,7 +29,7 @@ pair<ll, string> calculate(ll w, vector<pair<ll, ll>> &elements, string name)
     else sort(elements.begin(), elements.end(), comp_maximum_proportion);
 
     ll res = 0;
-    for(auto &[weight, revenue] : elements)
+    for(auto &[revenue, weight] : elements) // <-- corregido: first=beneficio, second=peso
     {
         if( w >= weight )
         {
@@ -53,7 +53,7 @@ void process(int &n, ll &w, vector<pair<ll, ll>> &elements)
         if(res.first > ans.first) ans = res;
     }
 
-    cout << "Minimo encontrado con " << ans.second << nl << nl;
+    cout << "Maximo encontrado con " << ans.second << nl << nl;
     cout << "####################################################";
     cout << nl;
 }
@@ -88,3 +88,4 @@ int main()
 
     return 0;
 }
+
